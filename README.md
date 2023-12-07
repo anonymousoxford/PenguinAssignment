@@ -9,4 +9,4 @@ main_penguin.pdf shows the knitted R markdown file as a pdf.
 
 main_penguin123.rmd is the final file which contains my answers to all questions, including question 3.
 
-main_penguin123.rmd shows the final knitted R markdown file as a pdf
+main_penguin123.rmd shows the final knitted R markdown file as a pdf.
